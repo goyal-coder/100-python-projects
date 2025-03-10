@@ -10,7 +10,6 @@ Welcome to **100 Python Projects**, a collection of **beginner-friendly** Python
 ## 📜 Table of Contents  
 - [📌 Introduction](#-introduction)  
 - [📂 Project Categories](#-project-categories)  
-- [🔧 How to Use](#-how-to-use)  
 - [📸 Screenshots (Coming Soon)](#-screenshots-coming-soon)  
 - [🎯 Contribution](#-contribution)  
 - [🛠️ Technologies Used](#️-technologies-used)  
