@@ -45,21 +45,12 @@ _💡 [Click here to view the full project list](#)_
 
 ---
 
-## 🔧 How to Use  
-
-1️⃣ **Clone this repository**  
-```sh
-git clone https://github.com/your-username/100-python-projects.git
-cd 100-python-projects
-
----
-
-2️⃣ Run a project
+Run a project
 python project_name.py
 
-3️⃣ Modify & Experiment – Feel free to tweak the code and improve it!
+ Modify & Experiment – Feel free to tweak the code and improve it!
 
-4️⃣ Upload your solutions to GitHub (Good for your portfolio 🚀)
+ Upload your solutions to GitHub (Good for your portfolio 🚀)
 
 ---
 
